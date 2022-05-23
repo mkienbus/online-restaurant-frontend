@@ -62,7 +62,6 @@ function SignUpForm({setUser}){
                 />
                 <br></br>
                 <Button type = "submit" variant = "contained" size = "small">Create</Button>
-                <h2>All validations/password confirmations work. Customize error handling</h2>
             </form>
             </div>
         </>
